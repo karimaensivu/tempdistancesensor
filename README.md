@@ -24,6 +24,8 @@ IoT-project
 
 [Visualization and user interface](#Visualization-and-user-interface)
 
+[Finalizing the design](#Finalizing-the-design)
+
 
 ### Project overview
 
@@ -196,6 +198,8 @@ Data is stored in a NoSQL and displayed thanks to json-configured modules, see e
 ```
 
 Can also set up Mevisio to send e-mail or message via Teams/Slack based on configurable events. But that's a future concern.
+
+### Finalizing the design
 
 Device in a 3d-printed box(not optimal fit yet).
 ![Device](img/Capture1.JPG)
