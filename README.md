@@ -199,6 +199,12 @@ Data is stored in a NoSQL and displayed thanks to json-configured modules, see e
 
 Can also set up Mevisio to send e-mail or message via Teams/Slack based on configurable events. But that's a future concern.
 
+
+When connected to the LAN with my phone, I can also check the MQTT dashboard
+![MQTT](img/mqtt.jpg)
+
+
+
 ### Finalizing the design
 
 Device in a 3d-printed box(not optimal fit yet).
@@ -207,10 +213,6 @@ Device in a 3d-printed box(not optimal fit yet).
 
 From above
 ![Above](img/Capture2.JPG)
-
-
-When connected to the LAN with my phone, I can also check the MQTT dashboard
-![MQTT](img/mqtt.jpg)
 
 
 I'm happy with what's been done so far, but might change the distance sensor to Lidar to be certain of the distance measurement as there could be something else interfering when using sonar. In addition, an alert system would be good to have.
